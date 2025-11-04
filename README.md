@@ -1,7 +1,12 @@
+Albatta 👍
+Mana siz README.md faylga **to‘g‘ridan-to‘g‘ri nusxalab qo‘yishingiz mumkin bo‘lgan** toza versiya (Markdown formatida to‘g‘ri chiqadi):
+
+---
+
+```markdown
 # shop_flask_site
 
-```
-# 🛍️ Flask Shop Web App
+## 🛍️ Flask Shop Web App
 
 Bu kichik Flask asosidagi onlayn do‘kon (shop) loyihasi bo‘lib, mahsulotlar ro‘yxatini ko‘rsatish, ularning tafsilotlarini ko‘rish hamda kontakt sahifasini o‘z ichiga oladi.
 
@@ -12,7 +17,7 @@ Bu kichik Flask asosidagi onlayn do‘kon (shop) loyihasi bo‘lib, mahsulotlar 
 - SQLite  
 
 ## 📁 Loyihaning tuzilishi
-
+```
 
 project/
 │
@@ -27,7 +32,7 @@ project/
 ├── shop.py                # Asosiy Flask fayl
 └── shop_un.db             # Ma’lumotlar bazasi (avtomatik yaratiladi)
 
-
+````
 
 ## ⚙️ O‘rnatish
 
@@ -52,3 +57,9 @@ project/
 
    Brauzerda oching: 👉 `http://127.0.0.1:5000`
 
+```
+
+---
+
+Xohlasangiz, shu README.md’ga **rasm yoki badge** (masalan, Flask logosi yoki “Made with ❤️ in Python”) ham qo‘shib bezab beray?
+```
