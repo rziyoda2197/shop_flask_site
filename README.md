@@ -52,29 +52,3 @@ project/
 
    Brauzerda oching: 👉 `http://127.0.0.1:5000`
 
-## 🧩 Model tuzilmasi
-
-### `Product` modeli
-
-| Ustun nomi    | Turi    | Tavsif              |
-| ------------- | ------- | ------------------- |
-| id            | Integer | Asosiy kalit        |
-| name          | String  | Mahsulot nomi       |
-| price         | Float   | Narxi               |
-| product_count | Integer | Miqdori (default=1) |
-| brend         | String  | Brend nomi          |
-| description   | Text    | Tavsif              |
-| image         | Text    | Rasm manzili        |
-
-### `Contact` modeli
-
-| Ustun nomi | Turi    | Tavsif              |
-| ---------- | ------- | ------------------- |
-| id         | Integer | Asosiy kalit        |
-| fullname   | String  | Foydalanuvchi F.I.O |
-| email      | String  | Elektron pochta     |
-| massage    | Text    | Xabar matni         |
-
-
-Xohlaysizmi, README’ni ingliz tilida yoki yanada soddaroq (masalan, faqat o‘rnatish va ishga tushirish bo‘limlari bilan) variantini ham yozib beray?
-```
