@@ -3,7 +3,7 @@ Mana siz README.md faylga **to‘g‘ridan-to‘g‘ri nusxalab qo‘yishingiz m
 
 ---
 
-```markdown
+```
 # shop_flask_site
 
 ## 🛍️ Flask Shop Web App
@@ -32,7 +32,7 @@ project/
 ├── shop.py                # Asosiy Flask fayl
 └── shop_un.db             # Ma’lumotlar bazasi (avtomatik yaratiladi)
 
-````
+```
 
 ## ⚙️ O‘rnatish
 
@@ -59,7 +59,3 @@ project/
 
 ```
 
----
-
-Xohlasangiz, shu README.md’ga **rasm yoki badge** (masalan, Flask logosi yoki “Made with ❤️ in Python”) ham qo‘shib bezab beray?
-```
