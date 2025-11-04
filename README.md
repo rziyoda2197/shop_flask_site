@@ -12,7 +12,7 @@ Bu kichik Flask asosidagi onlayn do‘kon (shop) loyihasi bo‘lib, mahsulotlar 
 - SQLite  
 
 ## 📁 Loyihaning tuzilishi
-```
+
 
 project/
 │
@@ -27,7 +27,7 @@ project/
 ├── shop.py                # Asosiy Flask fayl
 └── shop_un.db             # Ma’lumotlar bazasi (avtomatik yaratiladi)
 
-````
+
 
 ## ⚙️ O‘rnatish
 
